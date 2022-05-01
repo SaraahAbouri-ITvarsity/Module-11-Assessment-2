@@ -1,0 +1,86 @@
+
+.food .col-lg-4 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.section-divider{ 
+    margin: 3rem 0;
+}
+
+.footer-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.col-lg-4 p a{
+  background-color: rgb(3, 48, 27);
+}
+
+main h3{
+  text-align: center;
+  font-size:23px;
+}
+
+main{
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .feature-heading {
+    margin-top: 10rem;
+  }
+
+ 
+}
+
+@media (max-width: 540px) {
+    
+    
+    .food {
+        margin-top: 2rem;
+    }
+
+   
+}
+
+.navbar-nav{
+  font-size: 25px;
+  color: rgb(3, 48, 27);
+}
+
+.logo{
+  height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
